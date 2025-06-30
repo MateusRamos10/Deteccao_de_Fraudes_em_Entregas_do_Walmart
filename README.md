@@ -1,0 +1,2 @@
+# Deteccao_de_Fraudes_em_Entregas_do_Walmart
+ Você é o analista de dados do Walmart trabalhando exclusivamente para a área de e-commerce. Foi identificado que o maior aumento proporcional em furtos aconteceu nas compras efetuadas via e-commerce em que usuários relatam não receberem todos os pedidos feitos nas suas compras. Do crescimento de roubos de 2022 para 2023, 53% do aumento veio das compras online. Você foi designado a cuidar deste projeto para diminuir o número de fraudes e roubos, você tem acesso aos dados para poder criar suas hipóteses e recomendações.
