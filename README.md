@@ -81,3 +81,17 @@ A avaliação das causas, baseada nas análises, permitiu identificar tendência
 ## Resultados <a id="resultados"></a>
 
 Os resultados das análises indicam que as fraudes em produtos não entregues no Walmart central da Flórida não seguem um padrão simples de correlação linear com as variáveis disponíveis. No entanto, foram identificadas tendências claras: os horários de entrega entre 22h e 6h apresentam as maiores taxas de fraude. As categorias "Pantry" (alimentos não perecíveis) e "Electronics" são as mais afetadas, exigindo estratégias de mitigação diferenciadas. Além disso, entregadores mais jovens (18 a 22 anos) e aqueles com múltiplas reincidências (3 a 4 ocorrências) são consistentemente associados a incidentes de fraude. Estas observações sugerem que a responsabilidade pela fraude pode ser multifatorial, envolvendo tanto falhas operacionais quanto condutas inadequadas de entregadores ou clientes.
+
+## Melhorias
+
+1. Criação de um dashboard em Power BI para acompanhamento das fraudes;
+2. Criação de um relatório com passos do projeto;
+3. Criação de um arquivo com as propostas.
+
+Fique a vontade para sugerir melhorias no projeto!
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-simoes-ramos/)&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusramos.oficial@gmail.com)&nbsp;
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://web.dio.me/users/mateusramos_oficial?tab=skills)
+*mailto: mateusramos.oficial@gmail.com*
+<!-- Meu site -->
